@@ -20,6 +20,7 @@ Per poder programar correctament un Bot s'ha de:
 Tenir coneixement bàsics de Python (perquè és el llenguatge en què s'escull l'API)
 Tenir usuari del Telegram.
 Recomanable: activar la versió web del Telegram.  Obriu al navegador la web: [http://web.telegram.org](http://web.telegram.org) . Us envia un codi d'activació.
+
 ![](https://i.imgur.com/2KWqkKp.png)
 
 
