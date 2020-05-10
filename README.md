@@ -29,6 +29,7 @@ Instal·lar l'API al vostre ordinador:
 sudo apt install python3-pip
 sudo pip3 install pyTelegramBotAPI
 ```
+
 ![](https://i.imgur.com/OMkm65x.png)
 
 
@@ -45,6 +46,7 @@ Exemple @triviaBot.
 S'usen des de la línia d'escriptura de missatge.
 Aquells que ens ajuden quan estem conversant amb algú, ens ajuden a crear missatges o enviar imatges.
 Exemple @Gif @Youtube.
+
 ![](https://i.imgur.com/KJb212I.png)
 
 ### 3.3. Bots en un grup:
@@ -71,6 +73,7 @@ Per treballar en el taller usarem el grup de Telegram [https://t.me/joinchat/C41
 ### 5.1. BotFather
 
 Creació del bot a Telegram per això s'usa un Bot !!! Ole ole! El Bot és el @BotFather. 
+
 ![](https://i.imgur.com/0nSuOn0.png)
 
 Obriu conversa amb el BotFather.
